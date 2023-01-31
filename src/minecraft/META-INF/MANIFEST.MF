@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Main-Class: net.minecraft.client.main.Main
+Class-Path: icu4j-core-mojang-51.2.jar commons-compress-1.8.1.jar twitch
+ -6.5.jar platform-3.4.0.jar netty-all-4.0.23.Final.jar guava-17.0.jar c
+ odecwav-20101023.jar realms-1.7.39.jar log4j-api-2.0-beta9.jar codecjor
+ bis-20101023.jar jsoup-1.14.1.jar json-20211205.jar fastutil-7.1.0.jar 
+ WMI4Java-1.6.3.jar ViaSnakeYaml-1.27.jar ViaRewind-2.0.3-SNAPSHOT.jar V
+ iaVersion-4.1.2-SNAPSHOT.jar ViaBackwards-4.1.2-SNAPSHOT.jar httpclient
+ -4.3.3.jar commons-logging-1.1.3.jar librarylwjglopenal-20100824.jar lw
+ jgl-2.9.4-nightly-20150209.jar jna-3.4.0.jar soundsystem-20120107.jar L
+ emonObfAnnotation.jar commons-codec-1.9.jar oshi-core-1.1.jar log4j-cor
+ e-2.0-beta9.jar commons-io-2.4.jar lwjgl_util-2.9.4-nightly-20150209.ja
+ r gson-2.2.4.jar httpcore-4.3.2.jar jutils-1.0.0.jar 1.8.8.jar commons-
+ lang3-3.3.2.jar libraryjavasound-20101123.jar jinput-2.0.5.jar authlib-
+ 1.5.21.jar jopt-simple-4.6.jar
+
